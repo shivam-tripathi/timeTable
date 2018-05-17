@@ -1,0 +1,267 @@
+{
+    "_instructions": {
+        "1" : "Fill in `duration`, `periodLength` which must be in hh:mm format",
+        "2" : "`lunchBegin` and `lunchEnd` must be in hh:mm format past after beginning of the duration",
+        "3" : "`class` json array object holds one object per `teacher-subject-batch` relation.",
+        "4" : "Make sure that all the `teacher` and `subject` names are unique.",
+        "5" : "Make sure that `year` is in numbers and `batch` matches one of the default values given below."
+    },
+    "data" : {
+        "batches" : [
+            "4-year",
+            "dual-degree",
+            "iiit"
+        ],
+        "subjectType" : [
+            "lab",
+            "lecture"
+        ],
+        "rooms": {
+            "classrooms": 4,
+            "labs": 3
+        },
+        "time" : {
+            "classBeginTime" : "08:30",
+            "classEndTime": "17:40",
+            "periodLength" : "00:50",
+            "lunchBeginTime" : "12:00",
+            "lunchEndTime" : "14:00",
+            "labDuration" : "02:30",
+            "workingDays" : 5
+        },
+        "class" : [
+            {
+                "teacher" : "Ms. Nisha",
+                "subject" : "Mobile Databases",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Mr. Rati Bhan",
+                "subject" : "Cloud Computing",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Ms. Richa",
+                "subject" : "Distributed Computing",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Mr. Pushpender",
+                "subject" : "Mobile Computing",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Ms. Roopali",
+                "subject" : "Data Ware Housing and Data Mining",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Mr. Prashant",
+                "subject" : "Software Project Planning",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Ms. Roopali",
+                "subject" : "Data Ware Housing and Data Mining Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+
+            {
+                "teacher" : "Mr. Pushpender",
+                "subject" : "Mobile Computing Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 4
+            },
+            {
+                "teacher" : "Mr. Keshav",
+                "subject" : "Computer Graphics",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Himani",
+                "subject" : "Software Engineering",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Aditi",
+                "subject" : "Advanced Database Management System",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Priyanka",
+                "subject" : "Computer Networks",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Aastha",
+                "subject" : "Digital Image Processing",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "XYZ",
+                "subject" : "Open Elective",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Priyanka",
+                "subject" : "Computer Network Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Himani",
+                "subject" : "Software Engineering Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Ms. Aastha",
+                "subject" : "Digital Image Processing Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 3
+            },
+            {
+                "teacher" : "Dr. Lokesh",
+                "subject" : "Computer Organization",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Dr. Pardeep Singh",
+                "subject" : "Operating System",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Ms. Shilpi",
+                "subject" : "Data Structure",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Ms. Meneka",
+                "subject" : "System Software",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Ms. Roopali",
+                "subject" : "Theory of Computation",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Mr. A. Gandhi",
+                "subject" : "Basic Environmental Science and Engineering",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Dr. Lokesh",
+                "subject" : "Computer Organisation Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Dr. Pardeep Singh",
+                "subject" : "Operating System Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Ms. Shilpi",
+                "subject" : "Data Structure Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 2
+            },
+            {
+                "teacher" : "Mr. A.Singh",
+                "subject" : "Engineering Mathematics II",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 1
+            },
+            {
+                "teacher" : "Mr. J.K.",
+                "subject" : "Chemistry for Computer Engineers",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 1
+            },
+            {
+                "teacher" : "Mr. S.C.",
+                "subject" : "Communication Skills",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 1
+            },
+            {
+                "teacher" : "Mr. Karan",
+                "subject" : "Basic Electrical Engineering",
+                "subjectType": "lecture",
+                "batch" : "dual-degree",
+                "year" : 1
+            },
+            {
+                "teacher" : "Ms. Raj kaushal",
+                "subject" : "Chemistry Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 1
+            },
+            {
+                "teacher" : "Ms. Shivani Choudhary",
+                "subject" : "Communication Skills Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 1
+            },
+            {
+                "teacher" : "Dr. Sidhartha",
+                "subject" : "Engineering Graphics Lab",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 1
+            }
+        ]
+    }
+}

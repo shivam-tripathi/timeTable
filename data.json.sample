@@ -1,0 +1,48 @@
+{
+    "_instructions": {
+        "1" : "Fill in `duration`, `periodLength` which must be in hh:mm format",
+        "2" : "`lunchBegin` and `lunchEnd` must be in hh:mm format past after beginning of the duration",
+        "3" : "`class` json array object holds one object per `teacher-subject-batch` relation.",
+        "4" : "Make sure that all the `teacher` and `subject` names are unique.",
+        "5" : "Make sure that `year` is in numbers and `batch` matches one of the default values given below."
+    },
+    "data" : {
+        "batches" : [
+            "4-year",
+            "dual-degree",
+            "iiit"
+        ],
+        "subjectType" : [
+            "lab",
+            "teaching"
+        ],
+        "rooms": {
+            "classrooms": 4,
+            "labs": 3
+        },
+        "time" : {
+            "classBeginTime" : "08:30",
+            "classEndTime": "17:40",
+            "periodLength" : "00:50",
+            "lunchBeginTime" : "12:00",
+            "lunchEndTime" : "14:00",
+            "labDuration" : "01:50"
+        },
+        "class" : [
+            {
+                "teacher" : "Sample Teacher 1",
+                "subject" : "Sample Subject 1",
+                "subjectType": "lecture",
+                "batch" : "4-year",
+                "year" : 3
+            },
+            {
+                "teacher" : "Sample Teacher 2",
+                "subject" : "Sample Subject 2",
+                "subjectType": "lab",
+                "batch" : "dual-degree",
+                "year" : 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "plugins": [],
+    "ignore": [
+        ""
+    ],
+    "presets": [
+        ["env", {
+        "targets": {
+            "node": "current"
+        }
+        }]
+    ]
+}
+
