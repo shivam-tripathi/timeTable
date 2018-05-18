@@ -37,12 +37,16 @@ export const read = () => {
 	obj.lectureSlots = 1;
 	obj.workingDays = data.time.workingDays;
 
-	obj.teachers = new Set(extractField(data.class, 'teacher'));
+	obj.classrooms = data.rooms.classrooms;
+	obj.labrooms = data.rooms.labrooms;
 
+	obj.lectureCount = data.count.lecture;
+	obj.labCount = data.count.lab;
+
+	obj.teachers = new Set(extractField(data.class, 'teacher'));
 	obj.subjects = new Set(zipObjectFields(data.class,
 		['subject', 'subjectType']).map(val => val.join(':')
 	));
-
 	obj.batches = new Set(zipObjectFields(data.class,
 		['batch', 'year']).map(val => val.join(':')
 	));

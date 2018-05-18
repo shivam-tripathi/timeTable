@@ -159,11 +159,12 @@ Task.prototype.reproduction = function (callback) {
 								self.emit('error', err)
 							}
 							else {
-								self.statistics = { minScore : min.score
-																	, maxScore : max.score
-																	, min : JSON.parse(JSON.stringify(min))
-																	, max : JSON.parse(JSON.stringify(max))
-																	, avg : sum / self.popSize
+								self.statistics = {
+									minScore : min.score,
+									maxScore : max.score,
+									min : JSON.parse(JSON.stringify(min)),
+									max : JSON.parse(JSON.stringify(max)),
+									avg : sum / self.popSize
 								}
 								self.emit('statistics', self.statistics)
 								self.emit('find sum end', sum)

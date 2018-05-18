@@ -1,5 +1,7 @@
 import _ from 'lodash';
 
+export const WEEKDAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+
 export const mapNamesToIndexes = (names) => {
 	return names.reduce(
 		(pres, name, index) => {pres[name] = index; return pres;},

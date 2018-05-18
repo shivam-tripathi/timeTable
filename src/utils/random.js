@@ -6,4 +6,4 @@ export const randomGenerator = (_min, _max, _integer=true) => {
 		max:  _max,
 		integer: _integer
 	});
-}
+};

@@ -1,26 +1,26 @@
 /* eslint-disable */
 
-// var genetic = module.exports;
-
-// genetic.Task = require('./genetic/Task')
-
 import {read} from './structure/data';
 import {chromosomeObject} from './structure/chromosome/chromsomeObject';
-import {fillLunchSlots} from './structure/chromosome/chromosomePopulate';
+import {fillLabs, fillLectures, fillLunchSlots} from './structure/chromosome/chromosomePopulate';
 import {populationObject} from './structure/population/populationObject';
 import log from './utils/consoleWrapper';
-
-// log('Time table scheduler', 6);
+import util from 'util';
+// import * as prettyPrint from './utils/prettyPrint';
+import fs from 'fs';
+// import {Task} from './genetic/task';
 
 const POPULATION_SIZE = 10;
 
-
 let obj = read();
-console.log(obj);
+fs.writeFileSync('dataObject.json', JSON.stringify(obj, null, 4));
 
 let chromosome = chromosomeObject(obj);
 chromosome.lunchSlots = fillLunchSlots(chromosome, obj);
-console.log(chromosome);
+chromosome = fillLabs(chromosome, obj);
+chromosome = fillLectures(chromosome, obj);
+console.log(util.inspect(chromosome, false, null));
+fs.writeFileSync('out.js', chromosome);
 
 // let population = populationObject(POPULATION_SIZE, obj);
 // console.log(population);

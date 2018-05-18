@@ -18,7 +18,7 @@
         ],
         "rooms": {
             "classrooms": 4,
-            "labs": 3
+            "labsrooms": 3
         },
         "time" : {
             "classBeginTime" : "08:30",
@@ -28,6 +28,10 @@
             "lunchEndTime" : "14:00",
             "labDuration" : "02:30",
             "workingDays" : 5
+        },
+        "count" : {
+            "lecture" : 4,
+            "lab" : 1
         },
         "class" : [
             {

@@ -1,6 +1,6 @@
 import _ from 'lodash';
+import {WEEKDAYS} from '../../utils/helpers';
 
-const WEEKDAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
 
 export const getSlotConstruct = () => {
 	return {
@@ -9,6 +9,10 @@ export const getSlotConstruct = () => {
 		'lectures': [],
 		'labs': []
 	};
+};
+
+export const mapDayToWeekday = (workingDays, day) => {
+	return WEEKDAYS.slice(0, workingDays)[day];
 };
 
 export const getLunchSlotConstruct = (batchesMapping) => {
