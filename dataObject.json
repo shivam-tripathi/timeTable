@@ -8,6 +8,7 @@
     "lectureSlots": 1,
     "workingDays": 5,
     "classrooms": 4,
+    "labrooms": 3,
     "lectureCount": 4,
     "labCount": 1,
     "teachers": {},

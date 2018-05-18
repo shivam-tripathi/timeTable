@@ -18,7 +18,7 @@
         ],
         "rooms": {
             "classrooms": 4,
-            "labsrooms": 3
+            "labrooms": 3
         },
         "time" : {
             "classBeginTime" : "08:30",

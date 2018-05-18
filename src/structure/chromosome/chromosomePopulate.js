@@ -40,9 +40,6 @@ export const addLectureTokenToSlot = (slot, token) => {
 	slot.teachers.add(token.teacher);
 	slot.batch.add(token.batch);
 	slot.lectures.push(token);
-
-	console.log(slot, token);
-
 	return slot;
 };
 
@@ -102,6 +99,5 @@ export const fillLectures = (chromosome, dataObj) => {
 			lectureCount--;
 		}
 	});
-	console.log('###########', chromosome);
 	return chromosome;
 };
