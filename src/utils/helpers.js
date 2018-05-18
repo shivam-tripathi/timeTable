@@ -44,3 +44,7 @@ export const zipObjectFields = (obj, fields) => {
 export const hhmmTimeRange = (begin, end) => {
 	return hhmmToMinutes(end) - hhmmToMinutes(begin);
 };
+
+export const add2D = (arr2) => {
+	return _.sum(arr2.map(arr => _.sum(arr)));
+};
