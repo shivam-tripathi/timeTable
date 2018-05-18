@@ -50,3 +50,10 @@ export const prettyPrintChromosome = (chromosome, dataObj) => {
 	})
 	return prettyPrinted;
 };
+
+export const prettyPrintDataObject = (dataObj) => {
+	['teachers', 'subjects', 'batches'].map(key => {
+		dataObj[key] = Array.from(dataObj[key]);
+	});
+	return dataObj;
+}

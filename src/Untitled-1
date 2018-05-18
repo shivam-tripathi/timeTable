@@ -1,0 +1,6 @@
+let chromosome = chromosomeObject(obj);
+chromosome.lunchSlots = fillLunchSlots(chromosome, obj);
+chromosome = fillLabs(chromosome, obj);
+chromosome = fillLectures(chromosome, obj);
+console.log(util.inspect(chromosome, false, null));
+fs.writeFileSync('out.json', JSON.stringify(prettyPrintChromosome(chromosome, obj), null, 4));

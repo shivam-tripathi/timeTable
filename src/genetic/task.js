@@ -15,7 +15,7 @@ export default function Task(options) {
 	this.minimize = false || options.minimize
 }
 
-Task.prototype = new EventEmitter()
+Task.prototype = new EventEmitter();
 
 Task.prototype.run = function (callback) {
 	var self = this
@@ -90,20 +90,17 @@ Task.prototype.iteration = function (callback) {
 Task.prototype.calcFitness = function (callback) {
 	var self = this
 	self.emit('calcFitness start')
-	async.forEach(self.population
-							, function (item, cb) {
-									self.fitness(item, function (fitnessValue) {
-										item.score = fitnessValue
-										cb()
-									})
-								 }
-							, function (err) {
-								if (err!=null) { self.emit('error', err) }
-								else {
-									self.emit('calcFitness end', self.population)
-									callback()
-								}
-							}
+	async.forEach(self.population,  (item, cb) => {
+		self.fitness(item, function (fitnessValue) {
+			item.score = fitnessValue
+			cb()
+		})}, (err) => {
+			if (err!=null) { self.emit('error', err) }
+			else {
+				self.emit('calcFitness end', self.population)
+				callback()
+			}
+		}
 	)
 }
 

@@ -43,7 +43,12 @@ export const addLectureTokenToSlot = (slot, token) => {
 	return slot;
 };
 
-export const addLabTokenSlot = (dayGene, slotBegin, token, dataObj) => {
+export const addLabTokenSlot = (
+	dayGene,
+	slotBegin,
+	token,
+	dataObj
+) => {
 	for (let slotNumber in _.range(slotBegin, slotBegin+dataObj.labSlots+1)) {
 		dayGene[slotNumber].teachers.add(token.teacher);
 		dayGene[slotNumber].batch.add(token.batch);
@@ -64,6 +69,7 @@ export const fillLabs = (chromosome, dataObj) => {
 			let slotNumber = randSlot();
 
 			let dayGene = chromosome[day];
+
 			let lunchSlots = chromosome.lunchSlots;
 
 			if (!checkLabSlotConstraints(dayGene, slotNumber, labToken, lunchSlots, dataObj))
