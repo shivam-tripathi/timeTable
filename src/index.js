@@ -2,6 +2,7 @@
 
 import {read} from './structure/data';
 import {chromosomeObject} from './structure/chromosome/chromsomeObject';
+import {primaryFitness} from './structure/chromosome/fitness';
 import {fillLabs, fillLectures, fillLunchSlots} from './structure/chromosome/chromosomePopulate';
 import {populationObject} from './structure/population/populationObject';
 import log from './utils/consoleWrapper';
@@ -21,3 +22,5 @@ let population = populationObject(POPULATION_SIZE, dataObj);
 // Print single initial example of generated chromosome.
 fs.writeFileSync('output/rawChromosome.json', JSON.stringify(population[0], null, 4));
 fs.writeFileSync('output/chromosome.json', JSON.stringify(prettyPrintChromosome(population[0], dataObj), null, 4));
+
+primaryFitness(population[0], dataObj);

@@ -5,23 +5,17 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 0,
-                    "subject": 0,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 8,
-                    "subject": 10,
-                    "batch": 1,
+                    "teacher": 4,
+                    "subject": 21,
+                    "batch": 2,
                     "slots": 1
                 }
             ],
             "labs": [
                 {
-                    "teacher": 14,
-                    "subject": 25,
-                    "batch": 2,
+                    "teacher": 21,
+                    "subject": 30,
+                    "batch": 3,
                     "slots": 3
                 }
             ]
@@ -31,48 +25,8 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 11,
-                    "subject": 13,
-                    "batch": 1,
-                    "slots": 1
-                }
-            ],
-            "labs": [
-                {
-                    "teacher": 14,
-                    "subject": 25,
-                    "batch": 2,
-                    "slots": 3
-                }
-            ]
-        },
-        "2": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 5,
-                    "subject": 5,
-                    "batch": 0,
-                    "slots": 1
-                }
-            ],
-            "labs": [
-                {
-                    "teacher": 14,
-                    "subject": 25,
-                    "batch": 2,
-                    "slots": 3
-                }
-            ]
-        },
-        "3": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 5,
-                    "subject": 5,
+                    "teacher": 2,
+                    "subject": 2,
                     "batch": 0,
                     "slots": 1
                 },
@@ -81,37 +35,18 @@
                     "subject": 11,
                     "batch": 1,
                     "slots": 1
-                },
-                {
-                    "teacher": 17,
-                    "subject": 26,
-                    "batch": 3,
-                    "slots": 1
                 }
             ],
             "labs": [
                 {
-                    "teacher": 14,
-                    "subject": 25,
-                    "batch": 2,
+                    "teacher": 21,
+                    "subject": 30,
+                    "batch": 3,
                     "slots": 3
                 }
             ]
         },
-        "4": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 10,
-                    "subject": 12,
-                    "batch": 1,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "5": {
+        "2": {
             "teachers": {},
             "batch": {},
             "lectures": [
@@ -120,189 +55,12 @@
                     "subject": 3,
                     "batch": 0,
                     "slots": 1
-                },
-                {
-                    "teacher": 9,
-                    "subject": 11,
-                    "batch": 1,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "6": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 0,
-                    "subject": 0,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 12,
-                    "subject": 17,
-                    "batch": 2,
-                    "slots": 1
-                },
-                {
-                    "teacher": 18,
-                    "subject": 27,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "7": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": []
-        },
-        "8": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 16,
-                    "subject": 22,
-                    "batch": 2,
-                    "slots": 1
-                },
-                {
-                    "teacher": 18,
-                    "subject": 27,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "9": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 0,
-                    "subject": 0,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 9,
-                    "subject": 11,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 20,
-                    "subject": 29,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "10": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 11,
-                    "subject": 13,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 17,
-                    "subject": 26,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        }
-    },
-    "Tue": {
-        "0": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 7,
-                    "subject": 15,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 13,
-                    "subject": 24,
-                    "batch": 2,
-                    "slots": 3
-                },
-                {
-                    "teacher": 23,
-                    "subject": 32,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "1": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 0,
-                    "subject": 0,
-                    "batch": 0,
-                    "slots": 1
                 }
             ],
             "labs": [
                 {
-                    "teacher": 7,
-                    "subject": 15,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 13,
-                    "subject": 24,
-                    "batch": 2,
-                    "slots": 3
-                },
-                {
-                    "teacher": 23,
-                    "subject": 32,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "2": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 7,
-                    "subject": 15,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 13,
-                    "subject": 24,
-                    "batch": 2,
-                    "slots": 3
-                },
-                {
-                    "teacher": 23,
-                    "subject": 32,
+                    "teacher": 21,
+                    "subject": 30,
                     "batch": 3,
                     "slots": 3
                 }
@@ -313,28 +71,22 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 2,
-                    "subject": 2,
+                    "teacher": 0,
+                    "subject": 0,
                     "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 14,
+                    "subject": 19,
+                    "batch": 2,
                     "slots": 1
                 }
             ],
             "labs": [
                 {
-                    "teacher": 7,
-                    "subject": 15,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 13,
-                    "subject": 24,
-                    "batch": 2,
-                    "slots": 3
-                },
-                {
-                    "teacher": 23,
-                    "subject": 32,
+                    "teacher": 21,
+                    "subject": 30,
                     "batch": 3,
                     "slots": 3
                 }
@@ -344,113 +96,6 @@
             "teachers": {},
             "batch": {},
             "lectures": [
-                {
-                    "teacher": 5,
-                    "subject": 5,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 10,
-                    "subject": 12,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 20,
-                    "subject": 29,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "5": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 14,
-                    "subject": 19,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "6": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 6,
-                    "subject": 8,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 14,
-                    "subject": 19,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "7": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 8,
-                    "subject": 10,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 16,
-                    "subject": 22,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "8": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 2,
-                    "subject": 2,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 10,
-                    "subject": 12,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 14,
-                    "subject": 19,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "9": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 1,
-                    "subject": 1,
-                    "batch": 0,
-                    "slots": 1
-                },
                 {
                     "teacher": 15,
                     "subject": 20,
@@ -466,7 +111,258 @@
             ],
             "labs": []
         },
+        "5": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 2,
+                    "subject": 2,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 9,
+                    "subject": 11,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 4,
+                    "subject": 21,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "6": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 15,
+                    "subject": 20,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "7": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 5,
+                    "subject": 5,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 8,
+                    "subject": 10,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 20,
+                    "subject": 29,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "8": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 11,
+                    "subject": 13,
+                    "batch": 1,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "9": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": []
+        },
         "10": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 1,
+                    "subject": 1,
+                    "batch": 0,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        }
+    },
+    "Tue": {
+        "0": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 1,
+                    "subject": 1,
+                    "batch": 0,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 9,
+                    "subject": 14,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 12,
+                    "subject": 23,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "1": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 2,
+                    "subject": 2,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 18,
+                    "subject": 27,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 9,
+                    "subject": 14,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 12,
+                    "subject": 23,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "2": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 0,
+                    "subject": 0,
+                    "batch": 0,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 9,
+                    "subject": 14,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 12,
+                    "subject": 23,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "3": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 0,
+                    "subject": 0,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 20,
+                    "subject": 29,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 9,
+                    "subject": 14,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 12,
+                    "subject": 23,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "4": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 8,
+                    "subject": 10,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 16,
+                    "subject": 22,
+                    "batch": 2,
+                    "slots": 1
+                },
+                {
+                    "teacher": 18,
+                    "subject": 27,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "5": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 7,
+                    "subject": 9,
+                    "batch": 1,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "6": {
             "teachers": {},
             "batch": {},
             "lectures": [
@@ -477,9 +373,91 @@
                     "slots": 1
                 },
                 {
-                    "teacher": 8,
-                    "subject": 10,
+                    "teacher": 20,
+                    "subject": 29,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "7": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 2,
+                    "subject": 2,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 19,
+                    "subject": 28,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "8": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 11,
+                    "subject": 13,
                     "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 12,
+                    "subject": 17,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "9": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 7,
+                    "subject": 9,
+                    "batch": 1,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "10": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 5,
+                    "subject": 5,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 9,
+                    "subject": 11,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 14,
+                    "subject": 19,
+                    "batch": 2,
+                    "slots": 1
+                },
+                {
+                    "teacher": 17,
+                    "subject": 26,
+                    "batch": 3,
                     "slots": 1
                 }
             ],
@@ -492,9 +470,9 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 7,
-                    "subject": 9,
-                    "batch": 1,
+                    "teacher": 13,
+                    "subject": 18,
+                    "batch": 2,
                     "slots": 1
                 }
             ],
@@ -506,8 +484,14 @@
                     "slots": 3
                 },
                 {
-                    "teacher": 22,
-                    "subject": 31,
+                    "teacher": 7,
+                    "subject": 15,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 23,
+                    "subject": 32,
                     "batch": 3,
                     "slots": 3
                 }
@@ -518,9 +502,9 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 11,
-                    "subject": 13,
-                    "batch": 1,
+                    "teacher": 14,
+                    "subject": 19,
+                    "batch": 2,
                     "slots": 1
                 }
             ],
@@ -532,33 +516,20 @@
                     "slots": 3
                 },
                 {
-                    "teacher": 22,
-                    "subject": 31,
+                    "teacher": 7,
+                    "subject": 15,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 23,
+                    "subject": 32,
                     "batch": 3,
                     "slots": 3
                 }
             ]
         },
         "2": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 4,
-                    "subject": 6,
-                    "batch": 0,
-                    "slots": 3
-                },
-                {
-                    "teacher": 22,
-                    "subject": 31,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "3": {
             "teachers": {},
             "batch": {},
             "lectures": [
@@ -574,6 +545,285 @@
                     "teacher": 4,
                     "subject": 6,
                     "batch": 0,
+                    "slots": 3
+                },
+                {
+                    "teacher": 7,
+                    "subject": 15,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 23,
+                    "subject": 32,
+                    "batch": 3,
+                    "slots": 3
+                }
+            ]
+        },
+        "3": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": [
+                {
+                    "teacher": 4,
+                    "subject": 6,
+                    "batch": 0,
+                    "slots": 3
+                },
+                {
+                    "teacher": 7,
+                    "subject": 15,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 23,
+                    "subject": 32,
+                    "batch": 3,
+                    "slots": 3
+                }
+            ]
+        },
+        "4": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 5,
+                    "subject": 5,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 10,
+                    "subject": 12,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 4,
+                    "subject": 21,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "5": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 17,
+                    "subject": 26,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "6": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 1,
+                    "subject": 1,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 15,
+                    "subject": 20,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "7": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 8,
+                    "subject": 10,
+                    "batch": 1,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "8": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 3,
+                    "subject": 3,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 7,
+                    "subject": 9,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 12,
+                    "subject": 17,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "9": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 8,
+                    "subject": 10,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 13,
+                    "subject": 18,
+                    "batch": 2,
+                    "slots": 1
+                },
+                {
+                    "teacher": 18,
+                    "subject": 27,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "10": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 4,
+                    "subject": 4,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 16,
+                    "subject": 22,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        }
+    },
+    "Thu": {
+        "0": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": [
+                {
+                    "teacher": 10,
+                    "subject": 16,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 13,
+                    "subject": 24,
+                    "batch": 2,
+                    "slots": 3
+                },
+                {
+                    "teacher": 22,
+                    "subject": 31,
+                    "batch": 3,
+                    "slots": 3
+                }
+            ]
+        },
+        "1": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": [
+                {
+                    "teacher": 10,
+                    "subject": 16,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 13,
+                    "subject": 24,
+                    "batch": 2,
+                    "slots": 3
+                },
+                {
+                    "teacher": 22,
+                    "subject": 31,
+                    "batch": 3,
+                    "slots": 3
+                }
+            ]
+        },
+        "2": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 5,
+                    "subject": 5,
+                    "batch": 0,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 10,
+                    "subject": 16,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 13,
+                    "subject": 24,
+                    "batch": 2,
+                    "slots": 3
+                },
+                {
+                    "teacher": 22,
+                    "subject": 31,
+                    "batch": 3,
+                    "slots": 3
+                }
+            ]
+        },
+        "3": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": [
+                {
+                    "teacher": 10,
+                    "subject": 16,
+                    "batch": 1,
+                    "slots": 3
+                },
+                {
+                    "teacher": 13,
+                    "subject": 24,
+                    "batch": 2,
                     "slots": 3
                 },
                 {
@@ -589,14 +839,114 @@
             "batch": {},
             "lectures": [
                 {
+                    "teacher": 4,
+                    "subject": 4,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
                     "teacher": 7,
                     "subject": 9,
                     "batch": 1,
                     "slots": 1
                 },
                 {
-                    "teacher": 4,
-                    "subject": 21,
+                    "teacher": 12,
+                    "subject": 17,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "5": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 9,
+                    "subject": 11,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 13,
+                    "subject": 18,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "6": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": []
+        },
+        "7": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [],
+            "labs": []
+        },
+        "8": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 0,
+                    "subject": 0,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 16,
+                    "subject": 22,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "9": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 10,
+                    "subject": 12,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 12,
+                    "subject": 17,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "10": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 1,
+                    "subject": 1,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 6,
+                    "subject": 8,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 16,
+                    "subject": 22,
                     "batch": 2,
                     "slots": 1
                 },
@@ -608,39 +958,68 @@
                 }
             ],
             "labs": []
-        },
-        "5": {
+        }
+    },
+    "Fri": {
+        "0": {
             "teachers": {},
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 4,
-                    "subject": 4,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 8,
-                    "subject": 10,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 13,
-                    "subject": 18,
-                    "batch": 2,
-                    "slots": 1
-                },
-                {
-                    "teacher": 20,
-                    "subject": 29,
+                    "teacher": 17,
+                    "subject": 26,
                     "batch": 3,
                     "slots": 1
                 }
             ],
-            "labs": []
+            "labs": [
+                {
+                    "teacher": 3,
+                    "subject": 7,
+                    "batch": 0,
+                    "slots": 3
+                },
+                {
+                    "teacher": 14,
+                    "subject": 25,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
         },
-        "6": {
+        "1": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 11,
+                    "subject": 13,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 18,
+                    "subject": 27,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 3,
+                    "subject": 7,
+                    "batch": 0,
+                    "slots": 3
+                },
+                {
+                    "teacher": 14,
+                    "subject": 25,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "2": {
             "teachers": {},
             "batch": {},
             "lectures": [
@@ -657,9 +1036,61 @@
                     "slots": 1
                 }
             ],
+            "labs": [
+                {
+                    "teacher": 3,
+                    "subject": 7,
+                    "batch": 0,
+                    "slots": 3
+                },
+                {
+                    "teacher": 14,
+                    "subject": 25,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "3": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 11,
+                    "subject": 13,
+                    "batch": 1,
+                    "slots": 1
+                }
+            ],
+            "labs": [
+                {
+                    "teacher": 3,
+                    "subject": 7,
+                    "batch": 0,
+                    "slots": 3
+                },
+                {
+                    "teacher": 14,
+                    "subject": 25,
+                    "batch": 2,
+                    "slots": 3
+                }
+            ]
+        },
+        "4": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 4,
+                    "subject": 4,
+                    "batch": 0,
+                    "slots": 1
+                }
+            ],
             "labs": []
         },
-        "7": {
+        "5": {
             "teachers": {},
             "batch": {},
             "lectures": [
@@ -667,6 +1098,44 @@
                     "teacher": 3,
                     "subject": 3,
                     "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 10,
+                    "subject": 12,
+                    "batch": 1,
+                    "slots": 1
+                },
+                {
+                    "teacher": 17,
+                    "subject": 26,
+                    "batch": 3,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "6": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 4,
+                    "subject": 21,
+                    "batch": 2,
+                    "slots": 1
+                }
+            ],
+            "labs": []
+        },
+        "7": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
+                {
+                    "teacher": 6,
+                    "subject": 8,
+                    "batch": 1,
                     "slots": 1
                 },
                 {
@@ -683,8 +1152,14 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 16,
-                    "subject": 22,
+                    "teacher": 4,
+                    "subject": 4,
+                    "batch": 0,
+                    "slots": 1
+                },
+                {
+                    "teacher": 15,
+                    "subject": 20,
                     "batch": 2,
                     "slots": 1
                 }
@@ -696,500 +1171,27 @@
             "batch": {},
             "lectures": [
                 {
-                    "teacher": 1,
-                    "subject": 1,
-                    "batch": 0,
+                    "teacher": 6,
+                    "subject": 8,
+                    "batch": 1,
                     "slots": 1
-                },
+                }
+            ],
+            "labs": []
+        },
+        "10": {
+            "teachers": {},
+            "batch": {},
+            "lectures": [
                 {
-                    "teacher": 16,
-                    "subject": 22,
-                    "batch": 2,
+                    "teacher": 6,
+                    "subject": 8,
+                    "batch": 1,
                     "slots": 1
                 },
                 {
                     "teacher": 19,
                     "subject": 28,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "10": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 7,
-                    "subject": 9,
-                    "batch": 1,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        }
-    },
-    "Thu": {
-        "0": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 17,
-                    "subject": 26,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": [
-                {
-                    "teacher": 3,
-                    "subject": 7,
-                    "batch": 0,
-                    "slots": 3
-                },
-                {
-                    "teacher": 9,
-                    "subject": 14,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 12,
-                    "subject": 23,
-                    "batch": 2,
-                    "slots": 3
-                }
-            ]
-        },
-        "1": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 3,
-                    "subject": 7,
-                    "batch": 0,
-                    "slots": 3
-                },
-                {
-                    "teacher": 9,
-                    "subject": 14,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 12,
-                    "subject": 23,
-                    "batch": 2,
-                    "slots": 3
-                }
-            ]
-        },
-        "2": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 3,
-                    "subject": 7,
-                    "batch": 0,
-                    "slots": 3
-                },
-                {
-                    "teacher": 9,
-                    "subject": 14,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 12,
-                    "subject": 23,
-                    "batch": 2,
-                    "slots": 3
-                }
-            ]
-        },
-        "3": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 19,
-                    "subject": 28,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": [
-                {
-                    "teacher": 3,
-                    "subject": 7,
-                    "batch": 0,
-                    "slots": 3
-                },
-                {
-                    "teacher": 9,
-                    "subject": 14,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 12,
-                    "subject": 23,
-                    "batch": 2,
-                    "slots": 3
-                }
-            ]
-        },
-        "4": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 3,
-                    "subject": 3,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 6,
-                    "subject": 8,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 4,
-                    "subject": 21,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "5": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 5,
-                    "subject": 5,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 7,
-                    "subject": 9,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 13,
-                    "subject": 18,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "6": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 2,
-                    "subject": 2,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 11,
-                    "subject": 13,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 15,
-                    "subject": 20,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "7": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": []
-        },
-        "8": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 12,
-                    "subject": 17,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "9": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 1,
-                    "subject": 1,
-                    "batch": 0,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "10": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 1,
-                    "subject": 1,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 6,
-                    "subject": 8,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 13,
-                    "subject": 18,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        }
-    },
-    "Fri": {
-        "0": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 10,
-                    "subject": 16,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 21,
-                    "subject": 30,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "1": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [],
-            "labs": [
-                {
-                    "teacher": 10,
-                    "subject": 16,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 21,
-                    "subject": 30,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "2": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 4,
-                    "subject": 4,
-                    "batch": 0,
-                    "slots": 1
-                }
-            ],
-            "labs": [
-                {
-                    "teacher": 10,
-                    "subject": 16,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 21,
-                    "subject": 30,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "3": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 4,
-                    "subject": 21,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": [
-                {
-                    "teacher": 10,
-                    "subject": 16,
-                    "batch": 1,
-                    "slots": 3
-                },
-                {
-                    "teacher": 21,
-                    "subject": 30,
-                    "batch": 3,
-                    "slots": 3
-                }
-            ]
-        },
-        "4": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 4,
-                    "subject": 4,
-                    "batch": 0,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "5": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 15,
-                    "subject": 20,
-                    "batch": 2,
-                    "slots": 1
-                },
-                {
-                    "teacher": 18,
-                    "subject": 27,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "6": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 2,
-                    "subject": 2,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 6,
-                    "subject": 8,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 17,
-                    "subject": 26,
-                    "batch": 3,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "7": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 4,
-                    "subject": 4,
-                    "batch": 0,
-                    "slots": 1
-                },
-                {
-                    "teacher": 12,
-                    "subject": 17,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "8": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 15,
-                    "subject": 20,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "9": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 9,
-                    "subject": 11,
-                    "batch": 1,
-                    "slots": 1
-                },
-                {
-                    "teacher": 12,
-                    "subject": 17,
-                    "batch": 2,
-                    "slots": 1
-                }
-            ],
-            "labs": []
-        },
-        "10": {
-            "teachers": {},
-            "batch": {},
-            "lectures": [
-                {
-                    "teacher": 4,
-                    "subject": 21,
-                    "batch": 2,
-                    "slots": 1
-                },
-                {
-                    "teacher": 18,
-                    "subject": 27,
                     "batch": 3,
                     "slots": 1
                 }
@@ -1199,8 +1201,8 @@
     },
     "lunchSlots": {
         "0": 5,
-        "1": 5,
+        "1": 6,
         "2": 5,
-        "3": 6
+        "3": 5
     }
 }
