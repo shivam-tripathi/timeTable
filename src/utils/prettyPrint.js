@@ -125,7 +125,10 @@ export const extractScheduleByBatch = (chromosome, dataObj) => {
 			let slotSchedule = [];
 			for(let slotNumber in _.range(dataObj.slots)) {
 				let batchId = parseInt(batch);
-				slotSchedule.push(
+				if (slotNumber == chromosome.lunchSlots[batchId]) {
+					slotSchedule.push({lunch: true});
+				}
+				else slotSchedule.push(
 					mapTokenToValues(
 						findInToken(chromosome[key][slotNumber]['lectures'], 'batch', batchId) ||
 						findInToken(chromosome[key][slotNumber]['labs'], 'batch', batchId) ||

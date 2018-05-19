@@ -18,11 +18,21 @@
             "batch": "dual-degree:4",
             "type": "labs"
         },
+        null,
         {
-            "teacher": "Ms. Roopali",
-            "subject": "Data Ware Housing and Data Mining:lecture",
+            "teacher": "Ms. Richa",
+            "subject": "Distributed Computing:lecture",
             "batch": "dual-degree:4",
             "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Nisha",
+            "subject": "Mobile Databases:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        {
+            "lunch": true
         },
         null,
         {
@@ -31,34 +41,13 @@
             "batch": "dual-degree:4",
             "type": "lecture"
         },
-        null,
-        null,
-        null,
         null,
         null
     ],
     [
         {
-            "teacher": "Mr. Rati Bhan",
-            "subject": "Cloud Computing:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        {
             "teacher": "Ms. Roopali",
             "subject": "Data Ware Housing and Data Mining:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        {
-            "teacher": "Ms. Nisha",
-            "subject": "Mobile Databases:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        {
-            "teacher": "Mr. Prashant",
-            "subject": "Software Project Planning:lecture",
             "batch": "dual-degree:4",
             "type": "lecture"
         },
@@ -68,52 +57,19 @@
             "batch": "dual-degree:4",
             "type": "lecture"
         },
-        {
-            "teacher": "Ms. Roopali",
-            "subject": "Data Ware Housing and Data Mining:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
         null,
+        null,
+        null,
+        null,
+        {
+            "lunch": true
+        },
         {
             "teacher": "Mr. Rati Bhan",
             "subject": "Cloud Computing:lecture",
             "batch": "dual-degree:4",
             "type": "lecture"
         },
-        {
-            "teacher": "Ms. Richa",
-            "subject": "Distributed Computing:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        {
-            "teacher": "Mr. Prashant",
-            "subject": "Software Project Planning:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        null
-    ],
-    [
-        null,
-        {
-            "teacher": "Ms. Nisha",
-            "subject": "Mobile Databases:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        null,
-        null,
-        {
-            "teacher": "Mr. Prashant",
-            "subject": "Software Project Planning:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        null,
-        null,
-        null,
         {
             "teacher": "Mr. Pushpender",
             "subject": "Mobile Computing:lecture",
@@ -122,51 +78,8 @@
         },
         null,
         {
-            "teacher": "Ms. Richa",
-            "subject": "Distributed Computing:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        }
-    ],
-    [
-        {
-            "teacher": "Ms. Richa",
-            "subject": "Distributed Computing:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        {
-            "teacher": "Mr. Rati Bhan",
-            "subject": "Cloud Computing:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        {
-            "teacher": "Ms. Nisha",
-            "subject": "Mobile Databases:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        null,
-        null,
-        {
             "teacher": "Mr. Prashant",
             "subject": "Software Project Planning:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        null,
-        null,
-        {
-            "teacher": "Ms. Nisha",
-            "subject": "Mobile Databases:lecture",
-            "batch": "dual-degree:4",
-            "type": "lecture"
-        },
-        null,
-        {
-            "teacher": "Mr. Pushpender",
-            "subject": "Mobile Computing:lecture",
             "batch": "dual-degree:4",
             "type": "lecture"
         }
@@ -191,17 +104,70 @@
             "type": "labs"
         },
         {
+            "teacher": "Ms. Roopali",
+            "subject": "Data Ware Housing and Data Mining:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "lunch": true
+        },
+        null,
+        {
+            "teacher": "Mr. Prashant",
+            "subject": "Software Project Planning:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        null,
+        null
+    ],
+    [
+        {
+            "teacher": "Ms. Nisha",
+            "subject": "Mobile Databases:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
             "teacher": "Mr. Pushpender",
             "subject": "Mobile Computing:lecture",
             "batch": "dual-degree:4",
             "type": "lecture"
         },
         null,
-        null,
-        null,
         {
             "teacher": "Ms. Roopali",
             "subject": "Data Ware Housing and Data Mining:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        {
+            "lunch": true
+        },
+        {
+            "teacher": "Mr. Prashant",
+            "subject": "Software Project Planning:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Richa",
+            "subject": "Distributed Computing:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        null,
+        null
+    ],
+    [
+        {
+            "teacher": "Mr. Rati Bhan",
+            "subject": "Cloud Computing:lecture",
             "batch": "dual-degree:4",
             "type": "lecture"
         },
@@ -211,7 +177,36 @@
             "batch": "dual-degree:4",
             "type": "lecture"
         },
+        {
+            "teacher": "Ms. Nisha",
+            "subject": "Mobile Databases:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
         null,
-        null
+        {
+            "teacher": "Ms. Richa",
+            "subject": "Distributed Computing:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        null,
+        {
+            "lunch": true
+        },
+        {
+            "teacher": "Mr. Rati Bhan",
+            "subject": "Cloud Computing:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Ms. Roopali",
+            "subject": "Data Ware Housing and Data Mining:lecture",
+            "batch": "dual-degree:4",
+            "type": "lecture"
+        }
     ]
 ]
