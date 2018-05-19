@@ -2,48 +2,94 @@
     "Mon": {
         "Slot number 0": {
             "Teachers active in this slot": [
-                "Dr. Pardeep Singh",
-                "Ms. Aditi",
-                "Mr. A.Singh"
+                "Ms. Priyanka",
+                "Ms. Shilpi"
             ],
             "Batches active in this slot": [
-                "dual-degree:2",
                 "dual-degree:3",
-                "dual-degree:1"
+                "dual-degree:2"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Ms. Aditi",
-                    "subject": "Advanced Database Management System:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. A.Singh",
-                    "subject": "Engineering Mathematics II:lecture",
-                    "batch": "dual-degree:1",
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure:lecture",
+                    "batch": "dual-degree:2",
                     "type": "lecture"
                 }
             ],
             "Labs in this slot": [
                 {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System Lab:lab",
-                    "batch": "dual-degree:2",
+                    "teacher": "Ms. Priyanka",
+                    "subject": "Computer Network Lab:lab",
+                    "batch": "dual-degree:3",
                     "type": "labs"
                 }
             ]
         },
         "Slot number 1": {
             "Teachers active in this slot": [
-                "Dr. Pardeep Singh",
-                "Mr. Pushpender",
-                "Ms. Himani"
+                "Ms. Priyanka",
+                "Ms. Nisha"
             ],
             "Batches active in this slot": [
-                "dual-degree:2",
+                "dual-degree:3",
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Nisha",
+                    "subject": "Mobile Databases:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Priyanka",
+                    "subject": "Computer Network Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 2": {
+            "Teachers active in this slot": [
+                "Ms. Priyanka",
+                "Mr. Pushpender"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:3",
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Pushpender",
+                    "subject": "Mobile Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Priyanka",
+                    "subject": "Computer Network Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 3": {
+            "Teachers active in this slot": [
+                "Ms. Priyanka",
+                "Mr. Pushpender",
+                "Mr. A. Gandhi",
+                "Mr. S.C."
+            ],
+            "Batches active in this slot": [
+                "dual-degree:3",
                 "dual-degree:4",
-                "dual-degree:3"
+                "dual-degree:2",
+                "dual-degree:1"
             ],
             "Lectures classes in this slot": [
                 {
@@ -53,62 +99,99 @@
                     "type": "lecture"
                 },
                 {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering:lecture",
-                    "batch": "dual-degree:3",
+                    "teacher": "Mr. A. Gandhi",
+                    "subject": "Basic Environmental Science and Engineering:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. S.C.",
+                    "subject": "Communication Skills:lecture",
+                    "batch": "dual-degree:1",
                     "type": "lecture"
                 }
             ],
             "Labs in this slot": [
                 {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System Lab:lab",
-                    "batch": "dual-degree:2",
+                    "teacher": "Ms. Priyanka",
+                    "subject": "Computer Network Lab:lab",
+                    "batch": "dual-degree:3",
                     "type": "labs"
                 }
             ]
         },
-        "Slot number 2": {
+        "Slot number 4": {
             "Teachers active in this slot": [
-                "Dr. Pardeep Singh",
-                "Mr. Keshav"
+                "Ms. Aditi"
             ],
             "Batches active in this slot": [
-                "dual-degree:2",
                 "dual-degree:3"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Mr. Keshav",
-                    "subject": "Computer Graphics:lecture",
+                    "teacher": "Ms. Aditi",
+                    "subject": "Advanced Database Management System:lecture",
                     "batch": "dual-degree:3",
                     "type": "lecture"
                 }
             ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                }
-            ]
+            "Labs in this slot": []
         },
-        "Slot number 3": {
+        "Slot number 5": {
             "Teachers active in this slot": [
-                "Dr. Pardeep Singh",
-                "Mr. Rati Bhan",
+                "Ms. Meneka"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Meneka",
+                    "subject": "System Software:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 6": {
+            "Teachers active in this slot": [
+                "Ms. Aastha",
+                "Mr. Karan"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:3",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Aastha",
+                    "subject": "Digital Image Processing:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. Karan",
+                    "subject": "Basic Electrical Engineering:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 7": {
+            "Teachers active in this slot": [
+                "Ms. Nisha",
                 "Mr. J.K."
             ],
             "Batches active in this slot": [
-                "dual-degree:2",
                 "dual-degree:4",
                 "dual-degree:1"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Mr. Rati Bhan",
-                    "subject": "Cloud Computing:lecture",
+                    "teacher": "Ms. Nisha",
+                    "subject": "Mobile Databases:lecture",
                     "batch": "dual-degree:4",
                     "type": "lecture"
                 },
@@ -119,20 +202,30 @@
                     "type": "lecture"
                 }
             ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                }
-            ]
+            "Labs in this slot": []
         },
-        "Slot number 4": {
+        "Slot number 8": {
+            "Teachers active in this slot": [
+                "Ms. Roopali"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Theory of Computation:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 9": {
             "Teachers active in this slot": [
                 "Mr. Pushpender",
-                "Dr. Pardeep Singh",
-                "Mr. A.Singh"
+                "Mr. A. Gandhi",
+                "Mr. Karan"
             ],
             "Batches active in this slot": [
                 "dual-degree:4",
@@ -147,107 +240,30 @@
                     "type": "lecture"
                 },
                 {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. A.Singh",
-                    "subject": "Engineering Mathematics II:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 5": {
-            "Teachers active in this slot": [
-                "Ms. Nisha",
-                "Mr. S.C."
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Nisha",
-                    "subject": "Mobile Databases:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. S.C.",
-                    "subject": "Communication Skills:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 6": {
-            "Teachers active in this slot": [
-                "Ms. Nisha",
-                "Dr. Pardeep Singh"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Nisha",
-                    "subject": "Mobile Databases:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 7": {
-            "Teachers active in this slot": [
-                "Mr. A. Gandhi"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
                     "teacher": "Mr. A. Gandhi",
                     "subject": "Basic Environmental Science and Engineering:lecture",
                     "batch": "dual-degree:2",
                     "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. Karan",
+                    "subject": "Basic Electrical Engineering:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
                 }
             ],
             "Labs in this slot": []
         },
-        "Slot number 8": {
+        "Slot number 10": {
             "Teachers active in this slot": [
-                "Mr. Prashant",
                 "Ms. Aastha",
-                "Dr. Lokesh",
-                "Mr. Karan"
+                "Dr. Lokesh"
             ],
             "Batches active in this slot": [
-                "dual-degree:4",
                 "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1"
+                "dual-degree:2"
             ],
             "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Prashant",
-                    "subject": "Software Project Planning:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
                 {
                     "teacher": "Ms. Aastha",
                     "subject": "Digital Image Processing:lecture",
@@ -259,7 +275,170 @@
                     "subject": "Computer Organization:lecture",
                     "batch": "dual-degree:2",
                     "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        }
+    },
+    "Tue": {
+        "Slot number 0": {
+            "Teachers active in this slot": [
+                "Ms. Roopali",
+                "Ms. Himani",
+                "Dr. Pardeep Singh",
+                "Mr. S.C."
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. S.C.",
+                    "subject": "Communication Skills:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Data Ware Housing and Data Mining Lab:lab",
+                    "batch": "dual-degree:4",
+                    "type": "labs"
                 },
+                {
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 1": {
+            "Teachers active in this slot": [
+                "Ms. Roopali",
+                "Ms. Himani",
+                "Dr. Pardeep Singh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Data Ware Housing and Data Mining Lab:lab",
+                    "batch": "dual-degree:4",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 2": {
+            "Teachers active in this slot": [
+                "Ms. Roopali",
+                "Ms. Himani",
+                "Dr. Pardeep Singh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Data Ware Housing and Data Mining Lab:lab",
+                    "batch": "dual-degree:4",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 3": {
+            "Teachers active in this slot": [
+                "Ms. Roopali",
+                "Ms. Himani",
+                "Dr. Pardeep Singh",
+                "Mr. A.Singh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. A.Singh",
+                    "subject": "Engineering Mathematics II:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Data Ware Housing and Data Mining Lab:lab",
+                    "batch": "dual-degree:4",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 4": {
+            "Teachers active in this slot": [
+                "Mr. Karan"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
                 {
                     "teacher": "Mr. Karan",
                     "subject": "Basic Electrical Engineering:lecture",
@@ -269,13 +448,81 @@
             ],
             "Labs in this slot": []
         },
-        "Slot number 9": {
+        "Slot number 5": {
+            "Teachers active in this slot": [
+                "Mr. Rati Bhan",
+                "Ms. Aastha"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Rati Bhan",
+                    "subject": "Cloud Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Aastha",
+                    "subject": "Digital Image Processing:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 6": {
+            "Teachers active in this slot": [
+                "Ms. Richa",
+                "XYZ",
+                "Dr. Lokesh",
+                "Mr. J.K."
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Richa",
+                    "subject": "Distributed Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "XYZ",
+                    "subject": "Open Elective:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organization:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. J.K.",
+                    "subject": "Chemistry for Computer Engineers:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 7": {
             "Teachers active in this slot": [
                 "Ms. Roopali",
+                "Ms. Aditi",
                 "Mr. A. Gandhi"
             ],
             "Batches active in this slot": [
                 "dual-degree:4",
+                "dual-degree:3",
                 "dual-degree:2"
             ],
             "Lectures classes in this slot": [
@@ -286,6 +533,12 @@
                     "type": "lecture"
                 },
                 {
+                    "teacher": "Ms. Aditi",
+                    "subject": "Advanced Database Management System:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
                     "teacher": "Mr. A. Gandhi",
                     "subject": "Basic Environmental Science and Engineering:lecture",
                     "batch": "dual-degree:2",
@@ -294,190 +547,11 @@
             ],
             "Labs in this slot": []
         },
-        "Slot number 10": {
+        "Slot number 8": {
             "Teachers active in this slot": [
+                "Ms. Richa",
                 "Ms. Priyanka",
-                "Ms. Meneka",
-                "Mr. Karan"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Priyanka",
-                    "subject": "Computer Networks:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Meneka",
-                    "subject": "System Software:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. Karan",
-                    "subject": "Basic Electrical Engineering:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        }
-    },
-    "Tue": {
-        "Slot number 0": {
-            "Teachers active in this slot": [
-                "Ms. Himani",
-                "Ms. Shilpi",
-                "Mr. Rati Bhan",
-                "Mr. S.C."
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:4",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Rati Bhan",
-                    "subject": "Cloud Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. S.C.",
-                    "subject": "Communication Skills:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 1": {
-            "Teachers active in this slot": [
-                "Ms. Himani",
-                "Ms. Shilpi",
-                "Mr. Rati Bhan"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:4"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Rati Bhan",
-                    "subject": "Cloud Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 2": {
-            "Teachers active in this slot": [
-                "Ms. Himani",
-                "Ms. Shilpi",
-                "Mr. S.C."
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. S.C.",
-                    "subject": "Communication Skills:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 3": {
-            "Teachers active in this slot": [
-                "Ms. Himani",
-                "Ms. Shilpi",
-                "Ms. Richa"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:4"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Richa",
-                    "subject": "Distributed Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 4": {
-            "Teachers active in this slot": [
-                "Mr. Prashant",
-                "XYZ",
-                "Ms. Roopali"
+                "Ms. Shilpi"
             ],
             "Batches active in this slot": [
                 "dual-degree:4",
@@ -486,17 +560,34 @@
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Mr. Prashant",
-                    "subject": "Software Project Planning:lecture",
+                    "teacher": "Ms. Richa",
+                    "subject": "Distributed Computing:lecture",
                     "batch": "dual-degree:4",
                     "type": "lecture"
                 },
                 {
-                    "teacher": "XYZ",
-                    "subject": "Open Elective:lecture",
+                    "teacher": "Ms. Priyanka",
+                    "subject": "Computer Networks:lecture",
                     "batch": "dual-degree:3",
                     "type": "lecture"
                 },
+                {
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 9": {
+            "Teachers active in this slot": [
+                "Ms. Roopali"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [
                 {
                     "teacher": "Ms. Roopali",
                     "subject": "Theory of Computation:lecture",
@@ -506,124 +597,18 @@
             ],
             "Labs in this slot": []
         },
-        "Slot number 5": {
+        "Slot number 10": {
             "Teachers active in this slot": [
-                "Ms. Richa",
-                "Ms. Himani"
+                "Mr. Keshav"
             ],
             "Batches active in this slot": [
-                "dual-degree:4",
                 "dual-degree:3"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Ms. Richa",
-                    "subject": "Distributed Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering:lecture",
+                    "teacher": "Mr. Keshav",
+                    "subject": "Computer Graphics:lecture",
                     "batch": "dual-degree:3",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 6": {
-            "Teachers active in this slot": [
-                "Mr. Pushpender"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Pushpender",
-                    "subject": "Mobile Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 7": {
-            "Teachers active in this slot": [
-                "Dr. Pardeep Singh"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 8": {
-            "Teachers active in this slot": [],
-            "Batches active in this slot": [],
-            "Lectures classes in this slot": [],
-            "Labs in this slot": []
-        },
-        "Slot number 9": {
-            "Teachers active in this slot": [
-                "Mr. Pushpender",
-                "Ms. Aastha",
-                "Mr. A. Gandhi"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:3",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Pushpender",
-                    "subject": "Mobile Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Aastha",
-                    "subject": "Digital Image Processing:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. A. Gandhi",
-                    "subject": "Basic Environmental Science and Engineering:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 10": {
-            "Teachers active in this slot": [
-                "Ms. Aditi",
-                "Ms. Shilpi"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Aditi",
-                    "subject": "Advanced Database Management System:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure:lecture",
-                    "batch": "dual-degree:2",
                     "type": "lecture"
                 }
             ],
@@ -633,41 +618,33 @@
     "Wed": {
         "Slot number 0": {
             "Teachers active in this slot": [
-                "Ms. Roopali",
-                "Ms. Shivani Choudhary",
-                "Mr. Keshav",
-                "Ms. Shilpi"
+                "Ms. Shilpi",
+                "Dr. Sidhartha",
+                "Ms. Himani"
             ],
             "Batches active in this slot": [
-                "dual-degree:4",
+                "dual-degree:2",
                 "dual-degree:1",
-                "dual-degree:3",
-                "dual-degree:2"
+                "dual-degree:3"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Mr. Keshav",
-                    "subject": "Computer Graphics:lecture",
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering:lecture",
                     "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure:lecture",
-                    "batch": "dual-degree:2",
                     "type": "lecture"
                 }
             ],
             "Labs in this slot": [
                 {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Data Ware Housing and Data Mining Lab:lab",
-                    "batch": "dual-degree:4",
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure Lab:lab",
+                    "batch": "dual-degree:2",
                     "type": "labs"
                 },
                 {
-                    "teacher": "Ms. Shivani Choudhary",
-                    "subject": "Communication Skills Lab:lab",
+                    "teacher": "Dr. Sidhartha",
+                    "subject": "Engineering Graphics Lab:lab",
                     "batch": "dual-degree:1",
                     "type": "labs"
                 }
@@ -675,145 +652,16 @@
         },
         "Slot number 1": {
             "Teachers active in this slot": [
-                "Ms. Roopali",
-                "Ms. Shivani Choudhary",
-                "Ms. Aditi"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:1",
-                "dual-degree:3"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Aditi",
-                    "subject": "Advanced Database Management System:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Data Ware Housing and Data Mining Lab:lab",
-                    "batch": "dual-degree:4",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shivani Choudhary",
-                    "subject": "Communication Skills Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 2": {
-            "Teachers active in this slot": [
-                "Ms. Roopali",
-                "Ms. Shivani Choudhary",
-                "Ms. Meneka"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:1",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Meneka",
-                    "subject": "System Software:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Data Ware Housing and Data Mining Lab:lab",
-                    "batch": "dual-degree:4",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shivani Choudhary",
-                    "subject": "Communication Skills Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 3": {
-            "Teachers active in this slot": [
-                "Ms. Roopali",
-                "Ms. Shivani Choudhary",
-                "XYZ"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:1",
-                "dual-degree:3"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "XYZ",
-                    "subject": "Open Elective:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Data Ware Housing and Data Mining Lab:lab",
-                    "batch": "dual-degree:4",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Shivani Choudhary",
-                    "subject": "Communication Skills Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 4": {
-            "Teachers active in this slot": [],
-            "Batches active in this slot": [],
-            "Lectures classes in this slot": [],
-            "Labs in this slot": []
-        },
-        "Slot number 5": {
-            "Teachers active in this slot": [
-                "Mr. Prashant",
-                "Ms. Shilpi"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Prashant",
-                    "subject": "Software Project Planning:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 6": {
-            "Teachers active in this slot": [
+                "Ms. Shilpi",
+                "Dr. Sidhartha",
                 "Ms. Richa",
-                "Mr. A.Singh"
+                "Ms. Priyanka"
             ],
             "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1",
                 "dual-degree:4",
-                "dual-degree:1"
+                "dual-degree:3"
             ],
             "Lectures classes in this slot": [
                 {
@@ -823,18 +671,123 @@
                     "type": "lecture"
                 },
                 {
-                    "teacher": "Mr. A.Singh",
-                    "subject": "Engineering Mathematics II:lecture",
+                    "teacher": "Ms. Priyanka",
+                    "subject": "Computer Networks:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Sidhartha",
+                    "subject": "Engineering Graphics Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 2": {
+            "Teachers active in this slot": [
+                "Ms. Shilpi",
+                "Dr. Sidhartha",
+                "Mr. Pushpender"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1",
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Pushpender",
+                    "subject": "Mobile Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Sidhartha",
+                    "subject": "Engineering Graphics Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 3": {
+            "Teachers active in this slot": [
+                "Ms. Shilpi",
+                "Dr. Sidhartha"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [],
+            "Labs in this slot": [
+                {
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Dr. Sidhartha",
+                    "subject": "Engineering Graphics Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 4": {
+            "Teachers active in this slot": [
+                "Mr. Prashant",
+                "Ms. Roopali",
+                "Mr. S.C."
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Prashant",
+                    "subject": "Software Project Planning:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Theory of Computation:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. S.C.",
+                    "subject": "Communication Skills:lecture",
                     "batch": "dual-degree:1",
                     "type": "lecture"
                 }
             ],
             "Labs in this slot": []
         },
-        "Slot number 7": {
+        "Slot number 5": {
             "Teachers active in this slot": [
                 "Ms. Priyanka",
-                "Ms. Roopali"
+                "Dr. Pardeep Singh"
             ],
             "Batches active in this slot": [
                 "dual-degree:3",
@@ -848,38 +801,74 @@
                     "type": "lecture"
                 },
                 {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Theory of Computation:lecture",
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System:lecture",
                     "batch": "dual-degree:2",
                     "type": "lecture"
                 }
             ],
             "Labs in this slot": []
         },
-        "Slot number 8": {
-            "Teachers active in this slot": [],
-            "Batches active in this slot": [],
-            "Lectures classes in this slot": [],
-            "Labs in this slot": []
-        },
-        "Slot number 9": {
+        "Slot number 6": {
             "Teachers active in this slot": [
-                "Mr. Prashant",
-                "XYZ",
-                "Ms. Shilpi"
+                "Ms. Roopali"
             ],
             "Batches active in this slot": [
-                "dual-degree:4",
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Data Ware Housing and Data Mining:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 7": {
+            "Teachers active in this slot": [
+                "Mr. Keshav",
+                "Dr. Pardeep Singh",
+                "Mr. J.K."
+            ],
+            "Batches active in this slot": [
+                "dual-degree:3",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Keshav",
+                    "subject": "Computer Graphics:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. J.K.",
+                    "subject": "Chemistry for Computer Engineers:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 8": {
+            "Teachers active in this slot": [
+                "XYZ",
+                "Dr. Lokesh"
+            ],
+            "Batches active in this slot": [
                 "dual-degree:3",
                 "dual-degree:2"
             ],
             "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Prashant",
-                    "subject": "Software Project Planning:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
                 {
                     "teacher": "XYZ",
                     "subject": "Open Elective:lecture",
@@ -887,9 +876,50 @@
                     "type": "lecture"
                 },
                 {
-                    "teacher": "Ms. Shilpi",
-                    "subject": "Data Structure:lecture",
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organization:lecture",
                     "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 9": {
+            "Teachers active in this slot": [
+                "Ms. Roopali",
+                "Ms. Aditi",
+                "Ms. Meneka",
+                "Mr. J.K."
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Roopali",
+                    "subject": "Data Ware Housing and Data Mining:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Aditi",
+                    "subject": "Advanced Database Management System:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Meneka",
+                    "subject": "System Software:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. J.K.",
+                    "subject": "Chemistry for Computer Engineers:lecture",
+                    "batch": "dual-degree:1",
                     "type": "lecture"
                 }
             ],
@@ -897,12 +927,20 @@
         },
         "Slot number 10": {
             "Teachers active in this slot": [
+                "Mr. Rati Bhan",
                 "Ms. Aastha"
             ],
             "Batches active in this slot": [
+                "dual-degree:4",
                 "dual-degree:3"
             ],
             "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Rati Bhan",
+                    "subject": "Cloud Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
                 {
                     "teacher": "Ms. Aastha",
                     "subject": "Digital Image Processing:lecture",
@@ -917,15 +955,24 @@
         "Slot number 0": {
             "Teachers active in this slot": [
                 "Mr. Pushpender",
-                "Ms. Priyanka",
-                "Ms. Raj kaushal"
+                "Ms. Aastha",
+                "Ms. Raj kaushal",
+                "Dr. Pardeep Singh"
             ],
             "Batches active in this slot": [
                 "dual-degree:4",
                 "dual-degree:3",
-                "dual-degree:1"
+                "dual-degree:1",
+                "dual-degree:2"
             ],
-            "Lectures classes in this slot": [],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
             "Labs in this slot": [
                 {
                     "teacher": "Mr. Pushpender",
@@ -934,8 +981,8 @@
                     "type": "labs"
                 },
                 {
-                    "teacher": "Ms. Priyanka",
-                    "subject": "Computer Network Lab:lab",
+                    "teacher": "Ms. Aastha",
+                    "subject": "Digital Image Processing Lab:lab",
                     "batch": "dual-degree:3",
                     "type": "labs"
                 },
@@ -950,7 +997,49 @@
         "Slot number 1": {
             "Teachers active in this slot": [
                 "Mr. Pushpender",
-                "Ms. Priyanka",
+                "Ms. Aastha",
+                "Ms. Raj kaushal",
+                "Dr. Lokesh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:1",
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organization:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Mr. Pushpender",
+                    "subject": "Mobile Computing Lab:lab",
+                    "batch": "dual-degree:4",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Aastha",
+                    "subject": "Digital Image Processing Lab:lab",
+                    "batch": "dual-degree:3",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Raj kaushal",
+                    "subject": "Chemistry Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 2": {
+            "Teachers active in this slot": [
+                "Mr. Pushpender",
+                "Ms. Aastha",
                 "Ms. Raj kaushal"
             ],
             "Batches active in this slot": [
@@ -967,50 +1056,8 @@
                     "type": "labs"
                 },
                 {
-                    "teacher": "Ms. Priyanka",
-                    "subject": "Computer Network Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Raj kaushal",
-                    "subject": "Chemistry Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 2": {
-            "Teachers active in this slot": [
-                "Mr. Pushpender",
-                "Ms. Priyanka",
-                "Ms. Raj kaushal",
-                "Ms. Meneka"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:3",
-                "dual-degree:1",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Meneka",
-                    "subject": "System Software:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Mr. Pushpender",
-                    "subject": "Mobile Computing Lab:lab",
-                    "batch": "dual-degree:4",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Ms. Priyanka",
-                    "subject": "Computer Network Lab:lab",
+                    "teacher": "Ms. Aastha",
+                    "subject": "Digital Image Processing Lab:lab",
                     "batch": "dual-degree:3",
                     "type": "labs"
                 },
@@ -1025,9 +1072,9 @@
         "Slot number 3": {
             "Teachers active in this slot": [
                 "Mr. Pushpender",
-                "Ms. Priyanka",
+                "Ms. Aastha",
                 "Ms. Raj kaushal",
-                "Mr. A. Gandhi"
+                "Dr. Pardeep Singh"
             ],
             "Batches active in this slot": [
                 "dual-degree:4",
@@ -1037,8 +1084,8 @@
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Mr. A. Gandhi",
-                    "subject": "Basic Environmental Science and Engineering:lecture",
+                    "teacher": "Dr. Pardeep Singh",
+                    "subject": "Operating System:lecture",
                     "batch": "dual-degree:2",
                     "type": "lecture"
                 }
@@ -1051,8 +1098,8 @@
                     "type": "labs"
                 },
                 {
-                    "teacher": "Ms. Priyanka",
-                    "subject": "Computer Network Lab:lab",
+                    "teacher": "Ms. Aastha",
+                    "subject": "Digital Image Processing Lab:lab",
                     "batch": "dual-degree:3",
                     "type": "labs"
                 },
@@ -1066,25 +1113,8 @@
         },
         "Slot number 4": {
             "Teachers active in this slot": [
-                "Mr. Keshav"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. Keshav",
-                    "subject": "Computer Graphics:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 5": {
-            "Teachers active in this slot": [
                 "XYZ",
-                "Dr. Lokesh"
+                "Ms. Shilpi"
             ],
             "Batches active in this slot": [
                 "dual-degree:3",
@@ -1098,104 +1128,40 @@
                     "type": "lecture"
                 },
                 {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organization:lecture",
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure:lecture",
                     "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 5": {
+            "Teachers active in this slot": [
+                "Mr. Rati Bhan",
+                "Mr. A.Singh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Rati Bhan",
+                    "subject": "Cloud Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. A.Singh",
+                    "subject": "Engineering Mathematics II:lecture",
+                    "batch": "dual-degree:1",
                     "type": "lecture"
                 }
             ],
             "Labs in this slot": []
         },
         "Slot number 6": {
-            "Teachers active in this slot": [
-                "Ms. Roopali",
-                "Dr. Lokesh",
-                "Mr. J.K."
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:2",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Data Ware Housing and Data Mining:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organization:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. J.K.",
-                    "subject": "Chemistry for Computer Engineers:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 7": {
-            "Teachers active in this slot": [
-                "Ms. Nisha",
-                "Ms. Aastha",
-                "Dr. Lokesh"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:3",
-                "dual-degree:2"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Nisha",
-                    "subject": "Mobile Databases:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Aastha",
-                    "subject": "Digital Image Processing:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organization:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 8": {
-            "Teachers active in this slot": [
-                "Mr. J.K."
-            ],
-            "Batches active in this slot": [
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Mr. J.K.",
-                    "subject": "Chemistry for Computer Engineers:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 9": {
-            "Teachers active in this slot": [],
-            "Batches active in this slot": [],
-            "Lectures classes in this slot": [],
-            "Labs in this slot": []
-        },
-        "Slot number 10": {
             "Teachers active in this slot": [
                 "Ms. Priyanka"
             ],
@@ -1211,204 +1177,10 @@
                 }
             ],
             "Labs in this slot": []
-        }
-    },
-    "Fri": {
-        "Slot number 0": {
-            "Teachers active in this slot": [
-                "Ms. Aastha",
-                "Dr. Lokesh",
-                "Dr. Sidhartha",
-                "Ms. Roopali"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1",
-                "dual-degree:4"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Data Ware Housing and Data Mining:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Aastha",
-                    "subject": "Digital Image Processing Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organisation Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Sidhartha",
-                    "subject": "Engineering Graphics Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
         },
-        "Slot number 1": {
+        "Slot number 7": {
             "Teachers active in this slot": [
-                "Ms. Aastha",
-                "Dr. Lokesh",
-                "Dr. Sidhartha"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Aastha",
-                    "subject": "Digital Image Processing Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organisation Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Sidhartha",
-                    "subject": "Engineering Graphics Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 2": {
-            "Teachers active in this slot": [
-                "Ms. Aastha",
-                "Dr. Lokesh",
-                "Dr. Sidhartha"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Aastha",
-                    "subject": "Digital Image Processing Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organisation Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Sidhartha",
-                    "subject": "Engineering Graphics Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 3": {
-            "Teachers active in this slot": [
-                "Ms. Aastha",
-                "Dr. Lokesh",
-                "Dr. Sidhartha",
-                "Ms. Richa"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1",
-                "dual-degree:4"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Richa",
-                    "subject": "Distributed Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": [
-                {
-                    "teacher": "Ms. Aastha",
-                    "subject": "Digital Image Processing Lab:lab",
-                    "batch": "dual-degree:3",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Lokesh",
-                    "subject": "Computer Organisation Lab:lab",
-                    "batch": "dual-degree:2",
-                    "type": "labs"
-                },
-                {
-                    "teacher": "Dr. Sidhartha",
-                    "subject": "Engineering Graphics Lab:lab",
-                    "batch": "dual-degree:1",
-                    "type": "labs"
-                }
-            ]
-        },
-        "Slot number 4": {
-            "Teachers active in this slot": [
-                "Ms. Himani"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 5": {
-            "Teachers active in this slot": [
-                "Ms. Priyanka",
-                "Mr. Karan"
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Priyanka",
-                    "subject": "Computer Networks:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. Karan",
-                    "subject": "Basic Electrical Engineering:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
-        "Slot number 6": {
-            "Teachers active in this slot": [
-                "Ms. Aditi",
+                "Ms. Himani",
                 "Ms. Roopali",
                 "Mr. Karan"
             ],
@@ -1419,8 +1191,8 @@
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Ms. Aditi",
-                    "subject": "Advanced Database Management System:lecture",
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering:lecture",
                     "batch": "dual-degree:3",
                     "type": "lecture"
                 },
@@ -1439,16 +1211,39 @@
             ],
             "Labs in this slot": []
         },
-        "Slot number 7": {
+        "Slot number 8": {
             "Teachers active in this slot": [
-                "Ms. Roopali",
-                "Mr. Keshav",
-                "Mr. A.Singh"
+                "Mr. Prashant",
+                "Ms. Meneka"
             ],
             "Batches active in this slot": [
                 "dual-degree:4",
-                "dual-degree:3",
-                "dual-degree:1"
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Prashant",
+                    "subject": "Software Project Planning:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Meneka",
+                    "subject": "System Software:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 9": {
+            "Teachers active in this slot": [
+                "Ms. Roopali",
+                "Mr. Keshav"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3"
             ],
             "Lectures classes in this slot": [
                 {
@@ -1462,6 +1257,262 @@
                     "subject": "Computer Graphics:lecture",
                     "batch": "dual-degree:3",
                     "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 10": {
+            "Teachers active in this slot": [
+                "XYZ"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:3"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "XYZ",
+                    "subject": "Open Elective:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        }
+    },
+    "Fri": {
+        "Slot number 0": {
+            "Teachers active in this slot": [
+                "Dr. Lokesh",
+                "Ms. Shivani Choudhary"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [],
+            "Labs in this slot": [
+                {
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organisation Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Shivani Choudhary",
+                    "subject": "Communication Skills Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 1": {
+            "Teachers active in this slot": [
+                "Dr. Lokesh",
+                "Ms. Shivani Choudhary",
+                "Ms. Nisha"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1",
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Nisha",
+                    "subject": "Mobile Databases:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organisation Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Shivani Choudhary",
+                    "subject": "Communication Skills Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 2": {
+            "Teachers active in this slot": [
+                "Dr. Lokesh",
+                "Ms. Shivani Choudhary",
+                "Ms. Nisha"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1",
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Nisha",
+                    "subject": "Mobile Databases:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organisation Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Shivani Choudhary",
+                    "subject": "Communication Skills Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 3": {
+            "Teachers active in this slot": [
+                "Dr. Lokesh",
+                "Ms. Shivani Choudhary",
+                "Mr. Prashant",
+                "Ms. Aditi"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:2",
+                "dual-degree:1",
+                "dual-degree:4",
+                "dual-degree:3"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Prashant",
+                    "subject": "Software Project Planning:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Aditi",
+                    "subject": "Advanced Database Management System:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": [
+                {
+                    "teacher": "Dr. Lokesh",
+                    "subject": "Computer Organisation Lab:lab",
+                    "batch": "dual-degree:2",
+                    "type": "labs"
+                },
+                {
+                    "teacher": "Ms. Shivani Choudhary",
+                    "subject": "Communication Skills Lab:lab",
+                    "batch": "dual-degree:1",
+                    "type": "labs"
+                }
+            ]
+        },
+        "Slot number 4": {
+            "Teachers active in this slot": [
+                "Ms. Himani",
+                "Ms. Shilpi"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:3",
+                "dual-degree:2"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Shilpi",
+                    "subject": "Data Structure:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 5": {
+            "Teachers active in this slot": [
+                "Mr. Rati Bhan",
+                "Mr. A.Singh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Rati Bhan",
+                    "subject": "Cloud Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. A.Singh",
+                    "subject": "Engineering Mathematics II:lecture",
+                    "batch": "dual-degree:1",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 6": {
+            "Teachers active in this slot": [
+                "Mr. Prashant"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Mr. Prashant",
+                    "subject": "Software Project Planning:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                }
+            ],
+            "Labs in this slot": []
+        },
+        "Slot number 7": {
+            "Teachers active in this slot": [
+                "Ms. Richa",
+                "Ms. Himani",
+                "Mr. A. Gandhi",
+                "Mr. A.Singh"
+            ],
+            "Batches active in this slot": [
+                "dual-degree:4",
+                "dual-degree:3",
+                "dual-degree:2",
+                "dual-degree:1"
+            ],
+            "Lectures classes in this slot": [
+                {
+                    "teacher": "Ms. Richa",
+                    "subject": "Distributed Computing:lecture",
+                    "batch": "dual-degree:4",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Ms. Himani",
+                    "subject": "Software Engineering:lecture",
+                    "batch": "dual-degree:3",
+                    "type": "lecture"
+                },
+                {
+                    "teacher": "Mr. A. Gandhi",
+                    "subject": "Basic Environmental Science and Engineering:lecture",
+                    "batch": "dual-degree:2",
+                    "type": "lecture"
                 },
                 {
                     "teacher": "Mr. A.Singh",
@@ -1473,27 +1524,25 @@
             "Labs in this slot": []
         },
         "Slot number 8": {
+            "Teachers active in this slot": [],
+            "Batches active in this slot": [],
+            "Lectures classes in this slot": [],
+            "Labs in this slot": []
+        },
+        "Slot number 9": {
             "Teachers active in this slot": [
-                "Ms. Nisha",
-                "Ms. Meneka",
+                "Mr. Keshav",
                 "Mr. S.C."
             ],
             "Batches active in this slot": [
-                "dual-degree:4",
-                "dual-degree:2",
+                "dual-degree:3",
                 "dual-degree:1"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Ms. Nisha",
-                    "subject": "Mobile Databases:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Meneka",
-                    "subject": "System Software:lecture",
-                    "batch": "dual-degree:2",
+                    "teacher": "Mr. Keshav",
+                    "subject": "Computer Graphics:lecture",
+                    "batch": "dual-degree:3",
                     "type": "lecture"
                 },
                 {
@@ -1505,58 +1554,17 @@
             ],
             "Labs in this slot": []
         },
-        "Slot number 9": {
-            "Teachers active in this slot": [
-                "Ms. Himani",
-                "Dr. Pardeep Singh",
-                "Mr. J.K."
-            ],
-            "Batches active in this slot": [
-                "dual-degree:3",
-                "dual-degree:2",
-                "dual-degree:1"
-            ],
-            "Lectures classes in this slot": [
-                {
-                    "teacher": "Ms. Himani",
-                    "subject": "Software Engineering:lecture",
-                    "batch": "dual-degree:3",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Dr. Pardeep Singh",
-                    "subject": "Operating System:lecture",
-                    "batch": "dual-degree:2",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Mr. J.K.",
-                    "subject": "Chemistry for Computer Engineers:lecture",
-                    "batch": "dual-degree:1",
-                    "type": "lecture"
-                }
-            ],
-            "Labs in this slot": []
-        },
         "Slot number 10": {
             "Teachers active in this slot": [
-                "Mr. Rati Bhan",
-                "Ms. Roopali"
+                "Ms. Meneka"
             ],
             "Batches active in this slot": [
-                "dual-degree:4",
                 "dual-degree:2"
             ],
             "Lectures classes in this slot": [
                 {
-                    "teacher": "Mr. Rati Bhan",
-                    "subject": "Cloud Computing:lecture",
-                    "batch": "dual-degree:4",
-                    "type": "lecture"
-                },
-                {
-                    "teacher": "Ms. Roopali",
-                    "subject": "Theory of Computation:lecture",
+                    "teacher": "Ms. Meneka",
+                    "subject": "System Software:lecture",
                     "batch": "dual-degree:2",
                     "type": "lecture"
                 }

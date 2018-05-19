@@ -1,0 +1,232 @@
+[
+    [
+        null,
+        null,
+        null,
+        null,
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Ms. Meneka",
+            "subject": "System Software:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        null,
+        null,
+        null
+    ],
+    [
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Roopali",
+            "subject": "Theory of Computation:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. A. Gandhi",
+            "subject": "Basic Environmental Science and Engineering:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        }
+    ],
+    [
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organisation Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organisation Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organisation Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        null,
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organization:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organization:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Roopali",
+            "subject": "Theory of Computation:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Ms. Meneka",
+            "subject": "System Software:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. A. Gandhi",
+            "subject": "Basic Environmental Science and Engineering:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. A. Gandhi",
+            "subject": "Basic Environmental Science and Engineering:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        }
+    ],
+    [
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organization:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Roopali",
+            "subject": "Theory of Computation:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Ms. Roopali",
+            "subject": "Theory of Computation:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        }
+    ],
+    [
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Shilpi",
+            "subject": "Data Structure Lab:lab",
+            "batch": "dual-degree:2",
+            "type": "labs"
+        },
+        null,
+        {
+            "teacher": "Mr. A. Gandhi",
+            "subject": "Basic Environmental Science and Engineering:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Meneka",
+            "subject": "System Software:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Dr. Lokesh",
+            "subject": "Computer Organization:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Meneka",
+            "subject": "System Software:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Dr. Pardeep Singh",
+            "subject": "Operating System:lecture",
+            "batch": "dual-degree:2",
+            "type": "lecture"
+        },
+        null
+    ]
+]

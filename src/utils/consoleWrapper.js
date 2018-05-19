@@ -21,7 +21,7 @@ const log = (name, level = 6) => {
 		{ type: 'assert', level: 3, color: clc.cyan, wrapper: simpleWrapper },
 	];
 
-	methods.forEach(function (typeDescriptor) {
+	methods.forEach((typeDescriptor) => {
 		origConsole[typeDescriptor.type] = console[typeDescriptor.type];
 		console[typeDescriptor.type] = (...args) => {
 			typeDescriptor.wrapper(typeDescriptor, ...args);

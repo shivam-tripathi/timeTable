@@ -48,3 +48,11 @@ export const hhmmTimeRange = (begin, end) => {
 export const add2D = (arr2) => {
 	return _.sum(arr2.map(arr => _.sum(arr)));
 };
+
+export const shuffleArray = (array) => {
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]]; // eslint-disable-line no-param-reassign
+	}
+	return array;
+}

@@ -1,4 +1,4 @@
-import fitness from '../chromosome/fitness';
+import {fitness} from '../chromosome/fitness';
 
 export const populationSort = (population, dataObj) => {
 	return population.sort((a, b) => {

@@ -1,0 +1,192 @@
+[
+    [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    [
+        {
+            "teacher": "Ms. Raj kaushal",
+            "subject": "Chemistry Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Raj kaushal",
+            "subject": "Chemistry Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Raj kaushal",
+            "subject": "Chemistry Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Mr. Karan",
+            "subject": "Basic Electrical Engineering:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. S.C.",
+            "subject": "Communication Skills:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        null,
+        null,
+        {
+            "teacher": "Mr. S.C.",
+            "subject": "Communication Skills:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. Karan",
+            "subject": "Basic Electrical Engineering:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null
+    ],
+    [
+        {
+            "teacher": "Dr. Sidhartha",
+            "subject": "Engineering Graphics Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Dr. Sidhartha",
+            "subject": "Engineering Graphics Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Dr. Sidhartha",
+            "subject": "Engineering Graphics Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Mr. J.K.",
+            "subject": "Chemistry for Computer Engineers:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        null,
+        null,
+        {
+            "teacher": "Mr. A.Singh",
+            "subject": "Engineering Mathematics II:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. A.Singh",
+            "subject": "Engineering Mathematics II:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. J.K.",
+            "subject": "Chemistry for Computer Engineers:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null
+    ],
+    [
+        {
+            "teacher": "Ms. Shivani Choudhary",
+            "subject": "Communication Skills Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Shivani Choudhary",
+            "subject": "Communication Skills Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Shivani Choudhary",
+            "subject": "Communication Skills Lab:lab",
+            "batch": "dual-degree:1",
+            "type": "labs"
+        },
+        null,
+        {
+            "teacher": "Mr. A.Singh",
+            "subject": "Engineering Mathematics II:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Mr. S.C.",
+            "subject": "Communication Skills:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. A.Singh",
+            "subject": "Engineering Mathematics II:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. S.C.",
+            "subject": "Communication Skills:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Mr. J.K.",
+            "subject": "Chemistry for Computer Engineers:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        }
+    ],
+    [
+        {
+            "teacher": "Mr. Karan",
+            "subject": "Basic Electrical Engineering:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Mr. Karan",
+            "subject": "Basic Electrical Engineering:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Mr. J.K.",
+            "subject": "Chemistry for Computer Engineers:lecture",
+            "batch": "dual-degree:1",
+            "type": "lecture"
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+    ]
+]

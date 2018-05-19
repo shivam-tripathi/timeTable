@@ -49,7 +49,7 @@ export const addLabTokenSlot = (
 	token,
 	dataObj
 ) => {
-	for (let slotNumber in _.range(slotBegin, slotBegin+dataObj.labSlots+1)) {
+	for (let slotNumber in _.range(slotBegin, slotBegin+dataObj.labSlots)) {
 		dayGene[slotNumber].teachers.add(token.teacher);
 		dayGene[slotNumber].batch.add(token.batch);
 		dayGene[slotNumber].labs.push(token);

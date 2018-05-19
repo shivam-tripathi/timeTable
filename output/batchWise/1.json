@@ -1,0 +1,232 @@
+[
+    [
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        null,
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Mr. Keshav",
+            "subject": "Computer Graphics:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Mr. Keshav",
+            "subject": "Computer Graphics:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        }
+    ],
+    [
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Network Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Network Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Network Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        null,
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "XYZ",
+            "subject": "Open Elective:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Mr. Keshav",
+            "subject": "Computer Graphics:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Networks:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null
+    ],
+    [
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Networks:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Aditi",
+            "subject": "Advanced Database Management System:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Aastha",
+            "subject": "Digital Image Processing:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null
+    ],
+    [
+        {
+            "teacher": "XYZ",
+            "subject": "Open Elective:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Networks:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Aditi",
+            "subject": "Advanced Database Management System:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "XYZ",
+            "subject": "Open Elective:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "XYZ",
+            "subject": "Open Elective:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        }
+    ],
+    [
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering Lab:lab",
+            "batch": "dual-degree:3",
+            "type": "labs"
+        },
+        {
+            "teacher": "Ms. Aditi",
+            "subject": "Advanced Database Management System:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        {
+            "teacher": "Ms. Himani",
+            "subject": "Software Engineering:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Aditi",
+            "subject": "Advanced Database Management System:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        null,
+        null,
+        {
+            "teacher": "Mr. Keshav",
+            "subject": "Computer Graphics:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        },
+        {
+            "teacher": "Ms. Priyanka",
+            "subject": "Computer Networks:lecture",
+            "batch": "dual-degree:3",
+            "type": "lecture"
+        }
+    ]
+]
